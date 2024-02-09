@@ -37,7 +37,7 @@ button {
 body {
     font-family: 'Great Vibes', cursive;
     text-align: center;
-    margin: 0;
+    margin: auto;
     background-color: #f9f4f5; /* Soft pastel color for the background */
 }
 
@@ -47,7 +47,7 @@ body {
 
 h1 {
     font-size: 36px;
-    margin-bottom: 30px;
+    margin: auto;
     color: #e91e63; /* Romantic color for the heading */
 }
 
